@@ -68,9 +68,11 @@
 ## Roadmap
 
 - [ ] Get free HSL API key
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Build Python program to request real-time bus data
+- [ ] Create logic to calculate if a bus is late or on time
+- [ ] Set up a database to save historical delay data
+- [ ] Move the program to a Cloud server to run 24/7
+- [ ] Build a web dashboard to show the results
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
